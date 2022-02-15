@@ -1,0 +1,6 @@
+Para se identificar os problemas de um estado de cancelado sendo gerado na virada do ano,
+uma forma de se começar a analizar o problema é ver a forma como a data está formatada.
+A data pode estar formatada como "ISO Week Year", que considera o ano como tendo um número 
+inteiro de semanas, o que gera problemas quando se considera contagem de tempo, principalmente
+quando se considera a virada de ano, no qual dificilmente terá a virada coincidindo com uma 
+virada de semana.
