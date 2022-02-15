@@ -1,0 +1,4 @@
+{
+    "code-runner.clearPreviousOutput": true,
+    "python.envFile": "${workspaceFolder}/back_end/.venv/pyenv.cfg"
+}
