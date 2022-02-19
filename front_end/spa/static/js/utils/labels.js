@@ -9,5 +9,8 @@ export const labels = {
     delList: "Remover lista de tarefas",
     cancel: "Cancelar",
     return: "Voltar",
-    addTask: "Adicionar nova tarefa"
+    addTask: "Adicionar nova tarefa",
+    low: "Baixa",
+    medium: "Média",
+    high: "Alta"
 }

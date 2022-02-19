@@ -11,3 +11,9 @@ export const paths = {
     addTask: "/addTask",
     server: "http://127.0.0.1:5000"
 }
+
+export const hrefs = {
+    low: "#low",
+    medium: "#medium",
+    high: "#high"
+}
